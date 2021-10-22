@@ -2,7 +2,7 @@ const linksSociailMidia = {
   github: 'gabRochz',
   instagram: 'iam___gb',
   facebook: 'profile.php?id=100008207649117',
-  twiter: 'evebodyha1teme'
+  twiter: 'evebodyhateme'
 }
 function changeSocialMidiaLinks() {
   for (let li of socialLinks.children) {
